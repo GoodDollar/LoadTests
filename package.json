@@ -1,0 +1,31 @@
+{
+  "name": "@gooddollar/loadTest",
+  "version": "0.0.1",
+  "engines": {
+    "node": "10.x",
+    "npm": "6.x"
+  },
+  "scripts": {
+    "art:version": "artillery -V"
+  },
+  "keywords": [
+    "UBI",
+    "basic",
+    "income",
+    "gooddollar",
+    "dapp",
+    "ethereum",
+    "smart",
+    "contracts"
+  ],
+  "author": "GoodDollar Community <builders@gooddollar.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GoodDollar/GoodDAPP/issues"
+  },
+  "homepage": "https://gooddollar.org",
+  "dependencies": {
+    "artillery": "^1.6.0-28"
+  },
+  "devDependencies": {}
+}
